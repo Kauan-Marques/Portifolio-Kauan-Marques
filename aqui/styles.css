@@ -1,0 +1,101 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    background-image: url(./assets/img/kauan05.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-clip:inherit;
+    width: 100%;
+    height: 820px;
+
+}
+body{
+align-items: center;
+/* position: relative; */
+/* justify-content: center; */
+/* justify-items: center; */
+/* background-color: #333; */
+}
+h1{
+    padding: 2% 0%;
+    margin-left: 39.2%;
+    margin-right: 39.2%;
+    color: aliceblue;
+}
+.img1{
+    float: right;
+    width: 300px;
+    height: auto;
+    padding: 1% 15%;
+    border-radius: 50%;
+}
+.anoh{
+    color: aliceblue;
+    font-size: 33px;
+}
+.pnoh{
+    color: aliceblue;
+}
+nav{
+    margin-left: 10%;
+
+}
+
+.text1{  
+    position: relative;
+    color : black;
+}
+.pt1{
+    width: 100%;
+    height: 10%;
+}
+/* fileira 1 */
+
+.pt2{
+float: right;
+margin-right: 22%;
+}
+.pt3{
+float: right;
+margin-top: 10px;
+margin-right: 19.8%;
+}
+
+
+
+.pt4{
+float: left;
+margin-left:22% ;
+}
+.pt5{
+float: left;
+margin-top: 10px;
+margin-left: 18%;
+}
+/*  */
+/* fileria 2  */
+.pt6{
+    float: right;
+    margin-right: 21.5%;
+    }
+    .pt7{
+    float: right;
+    margin-top: 10px;
+    margin-right: 20%;
+    }
+    
+    
+    
+    .pt8{
+    float: left;
+    margin-left:21.5% ;
+    }
+    .pt9{
+    float: left;
+    margin-top: 10px;
+    margin-left: 20.5%;
+    }
+    /*  */
